@@ -1,0 +1,81 @@
+
+             Treatment Cost Query                                                                        Tuesday, December 17, 2019
+
+                                                                                                                         8:49:26 AM
+
+
+ Treatment                                    Animal Type                                   Cost
+
+ Feline Rabies Shot                           Feline                                                    $18.00
+
+
+ Wellness Exam                                Feline                                                    $20.00
+
+ Dog Rabies Shot                              Canine                                                    $20.00
+
+ Heartworm                                    Feline                                                    $20.00
+
+
+ Microchip                                    Feline                                                    $10.00
+
+ Microchip                                    Canine                                                    $10.00
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                                                                                 Page 1 of 1
+
